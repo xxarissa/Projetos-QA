@@ -13,7 +13,6 @@ Aqui pretendo documentar o que aprender sobre:
 
 ### Testes de API
 Estudos focados em validar a comunicação entre sistemas (Backend), requisições e respostas.
-* Postman
 
 ### Testes Automatizados
 * Futuras ferramentas de automação (Cypress ou Playwright)
@@ -21,6 +20,7 @@ Estudos focados em validar a comunicação entre sistemas (Backend), requisiçõ
 ## **Ferramentas utilizadas**
 * **VS Code** (Editor de código)
 * **Git & GitHub** (Controle de versão e portfólio)
+* **Postman** (Plataforma para testes e desenvolvimento de APIs)
 
 ## **Próximos passos (Roadmap)**
 
@@ -31,5 +31,5 @@ Estudos focados em validar a comunicação entre sistemas (Backend), requisiçõ
 
 ## **Contato**
 
-Linkedin: [Arissa Anraku](https://www.linkedin.com/in/arissa-anraku-00413b143/)  
-Email: xxarissa@gmail.com
+LinkedIn: [Arissa Anraku](https://www.linkedin.com/in/arissa-anraku-00413b143/)  
+E-mail: xxarissa@gmail.com
